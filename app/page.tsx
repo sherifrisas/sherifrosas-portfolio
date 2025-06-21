@@ -22,10 +22,10 @@ export default function Home() {
             Sherif Rosas
           </h1>
           <p className="text-2xl text-indigo-600 mt-2">
-            AI Consultant for Economic Policy
+            AI & Machine Learning Web Developer
           </p>
           <p className="mt-6 max-w-2xl mx-auto text-lg text-gray-700">
-            I am an AI Consultant and PhD researcher specializing in AI-driven economic policy. I help organizations and governments leverage artificial intelligence for smarter, data-driven decisions, policy analysis, and strategic planning.
+            I am an AI & Machine Learning Web Developer specializing in delivering business-focused solutions. I help organizations leverage artificial intelligence, machine learning, and web technologies to drive growth, optimize operations, and make smarter, data-driven decisions.
           </p>
           <div className="mt-8">
             <a href="mailto:sherif007.rosas@gmail.com" className="bg-indigo-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-indigo-700">
@@ -36,10 +36,10 @@ export default function Home() {
         <section className="my-8">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">Expertise & Services</h2>
           <ul className="list-disc list-inside text-lg text-gray-700 max-w-xl mx-auto text-left">
-            <li>AI for economic policy and public sector innovation</li>
-            <li>Data-driven decision making and strategy</li>
-            <li>AI strategy, implementation, and advisory</li>
-            <li>Policy analysis and forecasting with AI</li>
+            <li>AI and machine learning solutions for business challenges</li>
+            <li>AI-powered web applications and chatbots</li>
+            <li>Data-driven decision making and analytics</li>
+            <li>Business process automation with AI</li>
             <li>Workshops, training, and consulting for organizations</li>
           </ul>
         </section>
@@ -62,7 +62,7 @@ export default function Home() {
               </a>
             </p>
             <p>
-              <strong>Title:</strong> AI Consultant for Economic Policy
+              <strong>Title:</strong> AI & Machine Learning Web Developer
             </p>
           </div>
         </div>
