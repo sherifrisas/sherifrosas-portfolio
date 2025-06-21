@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Sherif Rosas | Freelance Data Scientist",
-  description: "The professional portfolio for Sherif Rosas, a freelance data scientist specializing in machine learning, data analysis, and visualization.",
+  title: "AI Consultant Rosas | AI for Economic Policy",
+  description: "Sherif Rosas - AI Consultant specializing in AI-driven economic policy. Helping organizations and governments leverage artificial intelligence for smarter, data-driven decisions.",
 };
 
 export default function RootLayout({
@@ -20,6 +20,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <title>AI Consultant Rosas | AI for Economic Policy</title>
+        <meta name="description" content="Sherif Rosas - AI Consultant specializing in AI-driven economic policy. Helping organizations and governments leverage artificial intelligence for smarter, data-driven decisions." />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </head>
       <body className={`${inter.variable} bg-gray-50 text-gray-900 antialiased`}>
         {children}
         <ChatWidget />
