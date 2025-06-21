@@ -19,7 +19,7 @@ export default function Home() {
       <main className="flex-grow container mx-auto p-8 text-center">
         <section className="my-16">
           <h1 className="text-5xl font-bold text-gray-900">
-            Sherif Rosas
+            Sherif Shawky Rosas
           </h1>
           <p className="text-2xl text-indigo-600 mt-2">
             AI & Machine Learning Web Developer
